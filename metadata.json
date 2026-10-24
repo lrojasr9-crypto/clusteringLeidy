@@ -1,0 +1,8 @@
+{
+  "name": "Remix ClusterPulse -clustering leidy ",
+  "description": "Plataforma analítica avanzada de clustering (KNN/K-Means euclídeo), normalización automática, reglas de negocio y estrategias de producto, precio, innovación, comunicación y rentabilidad con reporte HTML exportable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
